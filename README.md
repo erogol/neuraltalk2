@@ -34,6 +34,7 @@ See the Torch installation documentation for more details. After Torch is instal
 $ luarocks install nn
 $ luarocks install nngraph 
 $ luarocks install image 
+$ luarocks install hdf5
 ```
 
 We're also going to need the [cjson](http://www.kyne.com.au/~mark/software/lua-cjson-manual.html) library so that we can load/save json files. Follow their [download link](http://www.kyne.com.au/~mark/software/lua-cjson.php) and then look under their section 2.4 for easy luarocks install.
